@@ -1,0 +1,73 @@
+// Aves principales de Argentina
+export const birds = [
+  {
+    id: 1,
+    word: "CÓNDOR ANDINO",
+    scrambled: "CDRONO NADINO",
+    hint: "La ave voladora más grande del mundo en envergadura alar. Habita la Cordillera de los Andes.",
+    image: "",
+  },
+  {
+    id: 2,
+    word: "ÑANDÚ",
+    scrambled: "ÑADNÚ",
+    hint: "La más grande de las aves de Argentina, pariente de las avestruces. Habita las llanuras.",
+    image: "",
+  },
+  {
+    id: 3,
+    word: "CHINGOLO",
+    scrambled: "COGHINLO",
+    hint: "Ave pequeña y muy común, conocida por su copete y canto. Está presente en todo el país.",
+    image: "",
+  },
+  {
+    id: 4,
+    word: "MACÁ TOBIANO",
+    scrambled: "TBOAINA CÁMA",
+    hint: "Emblema de la conservación patagónica. Zambullidor que habita lagos de Santa Cruz.",
+    image: "",
+  },
+  {
+    id: 5,
+    word: "BENTEVEO",
+    scrambled: "VETENBEO",
+    hint: "Común en parques y jardines, conocido por su grito característico que suena a su nombre.",
+    image: "",
+  },
+  {
+    id: 6,
+    word: "CARDENAL",
+    scrambled: "LACRENDO",
+    hint: "Reconocido por su copete rojo intenso. Se lo encuentra en el norte y centro del país.",
+    image: "",
+  },
+  {
+    id: 7,
+    word: "CARANCHO",
+    scrambled: "RHONCACA",
+    hint: "Ave rapaz carroñera, de amplia distribución y muy adaptable, se ve a la vera de rutas.",
+    image: "",
+  },
+  {
+    id: 8,
+    word: "FLAMENCO AUSTRAL",
+    scrambled: "FLMEACO NALARTUS",
+    hint: "Ave de patas largas y color rosa, se alimenta en lagunas salinas y de agua dulce.",
+    image: "",
+  },
+  {
+    id: 9,
+    word: "JABIRÚ",
+    scrambled: "RUJABÍ",
+    hint: "Conocido también como Tuyuyú. Cigüeña de gran tamaño, habita zonas de esteros (como el Iberá).",
+    image: "",
+  },
+  {
+    id: 10,
+    word: "LOICA",
+    scrambled: "COALI",
+    hint: "Reconocida por su pecho de color rojo brillante. Común en pastizales y campos.",
+    image: "",
+  },
+];
